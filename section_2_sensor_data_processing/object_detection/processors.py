@@ -140,6 +140,7 @@ class SimpleDataGenerator(DataProcessor, Sequence):
 
     def __len__(self):
         return len(self.lidar_files) // self.batch_size
+   
 
     def __getitem__(self, batch_id: int):
         file_ids = np.arange(batch_id * self.batch_size, self.batch_size * (batch_id + 1))
