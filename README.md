@@ -1,6 +1,14 @@
+# My work in this project
+
+
+
+
+
+
+
+
 ![](assets/header_image.png)
 
-[![Build Main](https://github.com/ika-rwth-aachen/acdc-notebooks/actions/workflows/build.yml/badge.svg)](https://github.com/ika-rwth-aachen/acdc-notebooks/actions/workflows/build.yml)
 
 
 # Automated and Connected Driving Challenges (ACDC)
